@@ -1,0 +1,24 @@
+X:\МДК.01.01 Разр. прог. мод\DataBase_School\DataBase_School\bin\Debug\DataBase_School.exe.config
+X:\МДК.01.01 Разр. прог. мод\DataBase_School\DataBase_School\bin\Debug\DataBase_School.exe
+X:\МДК.01.01 Разр. прог. мод\DataBase_School\DataBase_School\bin\Debug\DataBase_School.pdb
+X:\МДК.01.01 Разр. прог. мод\DataBase_School\DataBase_School\obj\Debug\DataBase_School.csproj.AssemblyReference.cache
+X:\МДК.01.01 Разр. прог. мод\DataBase_School\DataBase_School\obj\Debug\DataBase_School.g.resources
+X:\МДК.01.01 Разр. прог. мод\DataBase_School\DataBase_School\obj\Debug\DataBase_School.Authorization.resources
+X:\МДК.01.01 Разр. прог. мод\DataBase_School\DataBase_School\obj\Debug\DataBase_School.Properties.Resources.resources
+X:\МДК.01.01 Разр. прог. мод\DataBase_School\DataBase_School\obj\Debug\DataBase_School.csproj.GenerateResource.cache
+X:\МДК.01.01 Разр. прог. мод\DataBase_School\DataBase_School\obj\Debug\DataBase_School.csproj.CoreCompileInputs.cache
+X:\МДК.01.01 Разр. прог. мод\DataBase_School\DataBase_School\obj\Debug\DataBase_School.exe
+X:\МДК.01.01 Разр. прог. мод\DataBase_School\DataBase_School\obj\Debug\DataBase_School.pdb
+C:\Users\177-22\Desktop\DataBase_School\DataBase_School\bin\Debug\DataBase_School.exe.config
+C:\Users\177-22\Desktop\DataBase_School\DataBase_School\bin\Debug\DataBase_School.exe
+C:\Users\177-22\Desktop\DataBase_School\DataBase_School\bin\Debug\DataBase_School.pdb
+C:\Users\177-22\Desktop\DataBase_School\DataBase_School\obj\Debug\DataBase_School.csproj.AssemblyReference.cache
+C:\Users\177-22\Desktop\DataBase_School\DataBase_School\obj\Debug\DataBase_School.g.resources
+C:\Users\177-22\Desktop\DataBase_School\DataBase_School\obj\Debug\DataBase_School.Authorization.resources
+C:\Users\177-22\Desktop\DataBase_School\DataBase_School\obj\Debug\DataBase_School.Properties.Resources.resources
+C:\Users\177-22\Desktop\DataBase_School\DataBase_School\obj\Debug\DataBase_School.csproj.GenerateResource.cache
+C:\Users\177-22\Desktop\DataBase_School\DataBase_School\obj\Debug\DataBase_School.csproj.CoreCompileInputs.cache
+C:\Users\177-22\Desktop\DataBase_School\DataBase_School\obj\Debug\DataBase_School.exe
+C:\Users\177-22\Desktop\DataBase_School\DataBase_School\obj\Debug\DataBase_School.pdb
+C:\Users\177-22\Desktop\DataBase_School\DataBase_School\obj\Debug\DataBase_School.Forms.fmMainWindow.resources
+C:\Users\177-22\Desktop\DataBase_School\DataBase_School\obj\Debug\DataBase_School.Forms.fmGoods.resources
